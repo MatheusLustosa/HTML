@@ -1,0 +1,40 @@
+
+body{background-image: url(https://st2.depositphotos.com/1040018/6351/i/600/depositphotos_63513719-stock-photo-black-wood-wall-background.jpg);}
+
+h2{
+color: red;
+Text-align: center;
+background-color: lightgray;
+
+
+}
+#topico1{
+Text-align: right;
+color: whitesmoke;
+cursor: crosshair;
+}
+#topico2{
+Text-align: right;
+color: whitesmoke;
+cursor: crosshair;
+}
+li{
+	color: whitesmoke;
+}
+.topico{
+	color: whitesmoke;
+	text-align: center;
+	font-style: italic;
+	text-transform: uppercase;
+	font-family: arial;
+
+}
+footer{text-align: center;
+color: whitesmoke;
+ }
+.imagem1{
+	text-align: center;}
+#primeiro{
+border:5pix whitesmoke solid
+
+}
